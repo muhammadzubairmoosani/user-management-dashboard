@@ -1,0 +1,29 @@
+{
+  "countries": [{ "name": "United States" }, { "name": "Canada" }],
+  "states": [
+    {
+      "name": "California",
+      "code": "CA"
+    },
+    {
+      "name": "New York",
+      "code": "NY"
+    },
+    {
+      "name": "Texas",
+      "code": "TX"
+    },
+    {
+      "name": "Ontario",
+      "code": "ON"
+    },
+    {
+      "name": "Quebec",
+      "code": "QC"
+    },
+    {
+      "name": "British Columbia",
+      "code": "BC"
+    }
+  ]
+}
